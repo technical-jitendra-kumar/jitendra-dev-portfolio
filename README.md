@@ -1,59 +1,83 @@
-# 🌐 Animated Portfolio Website
+# 🚀 Jitendra Kumar - Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A modern, responsive, and high-performance personal portfolio website built using **React, Vite, and Tailwind CSS**.  
+This portfolio showcases my skills, projects, experience, and contact information in a clean and professional design.
 
-## 🚀 Live Demo
+🌐 Live Demo: https://jitendra-dev-portfolio.vercel.app/ 
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+---
+
+## ✨ Features
+
+- ⚡ Built with React + Vite for fast performance
+- 🎨 Styled using Tailwind CSS (modern UI/UX)
+- 📱 Fully responsive design
+- 🧑‍💻 About, Skills, Projects, Experience & Education sections
+- 🖼️ 3D Tilt profile image effect
+- ⌨️ Typing animation effect
+- 🌈 Gradient & glow UI effects
+- 🚀 Optimized for SEO and performance
+
+---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+- **Frontend:** React.js, Vite
+- **Styling:** Tailwind CSS
+- **Animations:** React Typing Effect, React Parallax Tilt
+- **Tools:** Git, GitHub, VS Code
 
-## 📁 Features
+---
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+## 📂 Project Structure
+
+portfolio/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── pages/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
 
 
-## 🧑‍💻 How to Use
+---
 
-### 1. Clone the Repo
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+git clone https://github.com/technical-jitendra-kumar/jitendra-dev-portfolio.git
 
-### 2. Install Dependencies
+2️⃣ Navigate to the project folder
 
-```bash
+cd jitendra-portfolio
+
+3️⃣ Install dependencies
+
 npm install
-```
 
-### 3. Run the App
+4️⃣ Start the development server
 
-```bash
-npm start
-```
+npm run dev
 
-### 4. Build for Production
+The project will run on:
 
-```bash
+http://localhost:5173/
+
+🚀 Build for Production
+
 npm run build
-```
 
-## 📹 YouTube Tutorial
+👨‍💻 About Me
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+I am Jitendra Kumar, a full-stack developer with experience in building scalable web applications using modern technologies.
+I specialize in the MERN stack and love creating clean, responsive, and user-friendly web interfaces.
