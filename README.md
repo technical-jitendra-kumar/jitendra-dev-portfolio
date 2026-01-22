@@ -52,7 +52,7 @@ portfolio/
 
 Follow these steps to run the project locally:
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/technical-jitendra-kumar/jitendra-dev-portfolio.git
